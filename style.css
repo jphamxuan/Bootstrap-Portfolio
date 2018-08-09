@@ -6,7 +6,7 @@ body{
 h2, h3{border-bottom: 2px solid lightgrey;
   padding-bottom: 5px;
   color:#4aaaa5;
-  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-family:  Times, "Times New Roman", serif;
 }
 #head{background-color: white;
  
